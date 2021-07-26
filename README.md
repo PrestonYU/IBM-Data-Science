@@ -1,4 +1,4 @@
-# IBM-Data-Science
+# IBM-Data-Science-Professional-Certificate
 Course Material and Notebooks + Data Science Capstone Project
 
 <img src='https://imgur.com/WiTAiMO.png'>
